@@ -1,0 +1,23 @@
+{
+  "code": 1,
+  "message": "success",
+  "data": {
+      "bestselling":[
+              {
+                "price": "3,665,184Đ",
+                "title": "Google Chromecast Audio Black",
+                "price_sale": "2,523,484Đ"
+              },
+              {
+                "price": "3,665,184Đ",
+                "title": "Google Chromecast Audio Black",
+                "price_sale": "2,523,484Đ"
+              },
+              {
+                "price": "3,665,184Đ",
+                "title": "Google Chromecast Audio Black",
+                "price_sale": "2,523,484Đ"
+              }
+      ]
+  }
+}
