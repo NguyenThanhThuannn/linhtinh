@@ -18,6 +18,55 @@
                 "title": "Google Chromecast Audio Black",
                 "price_sale": "2,523,500Đ"
               }
+      ],
+      "dailydeals":[
+              {
+                "tab": "New Arrivals",
+                "pro": [
+                    {
+                      "price": "7,482,252Đ",
+                      "title": "Beats Solo3 Wireless On-Ear Headphones",
+                      "tag": "HOT"
+                    },
+                    {
+                      "price": "7,482,252Đ",
+                      "title": "Beats Solo3 Wireless On-Ear Headphones",
+                      "price_sale": "88,000,000Đ ",
+                      "tag": "SALE"
+                    }
+                ]
+              },
+              {
+                "tab": "Today’s Deals",
+                "pro": [
+                    {
+                      "price": "7,482,252Đ",
+                      "title": "Beats Solo3 Wireless On-Ear Headphones",
+                      "tag": "NEW"
+                    },
+                    {
+                      "price": "7,482,252Đ",
+                      "title": "Beats Solo3 Wireless On-Ear Headphones",
+                      "price_sale": "88,000,000Đ ",
+                      "tag": "SALE"
+                    }
+                ]
+              },
+              {
+                "tab": "Best Seller",
+                "pro": [
+                    {
+                      "price": "7,482,252Đ",
+                      "title": "Beats Solo3 Wireless On-Ear Headphones"
+                    },
+                    {
+                      "price": "7,482,252Đ",
+                      "title": "Beats Solo3 Wireless On-Ear Headphones",
+                      "price_sale": "88,000,000Đ ",
+                      "tag": "SALE"
+                    }
+                ]
+              }
       ]
   }
 }
