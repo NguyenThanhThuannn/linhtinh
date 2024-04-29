@@ -67,6 +67,24 @@
                     }
                 ]
               }
+      ],
+      "recentbrowsing": [
+              {
+                "price": "11,234,225Đ",
+                "title": "DJI Goggles Immersive FPV"
+              },
+              {
+                "price": "873.792Đ",
+                "title": "DJI Goggles Immersive FPV"
+              },
+              {
+                "price": "11,234,225Đ",
+                "title": "DJI Goggles Immersive FPV"
+              },
+              {
+                "price": "11,234,225Đ",
+                "title": "DJI Goggles Immersive FPV"
+              },
       ]
   }
 }
