@@ -68,6 +68,55 @@
                 ]
               }
       ],
+      "dailydealsweek": [
+              {
+                "price": "7,458,555Đ",
+                "title": "Sonos PLAY:1 Wireless Speaker",
+                "price_sale": "4,987,752Đ ",
+                "SLTon": 7,
+                "SLDaBan": 2
+              },
+              {
+                "price": "7,458,555Đ",
+                "title": "Sonos PLAY:1 Wireless Speaker",
+                "price_sale": "4,987,752Đ ",
+                "SLTon": 5,
+                "SLDaBan": 4
+              },
+              {
+                "price": "7,458,555Đ",
+                "title": "Sonos PLAY:1 Wireless Speaker",
+                "price_sale": "4,987,752Đ ",
+                "SLTon": 6,
+                "SLDaBan": 3
+              },
+              {
+                "price": "7,458,555Đ",
+                "title": "Sonos PLAY:1 Wireless Speaker",
+                "price_sale": "4,987,752Đ ",
+                "SLTon": 7,
+                "SLDaBan": 2
+              }
+      ],
+      "dailydealsweek2": [
+              {
+                "price": "2.537.230Đ",
+                "title": "Sonos Boost Wireless Speaker",
+                "tag": "HOT"
+              },
+              {
+                "price": "3.298.780Đ",
+                "title": "Bose SoundLink Color Bluetooth Speaker II"
+              },
+              {
+                "price": "4.061.473Đ",
+                "title": "TV Premium UHD TV from Samsung"
+              },
+              {
+                "price": "4.568.030Đ",
+                "title": "R2-D2 Droid by Sphera"
+              }
+      ],
       "recentbrowsing": [
               {
                 "price": "11,234,225Đ",
