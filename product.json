@@ -134,6 +134,108 @@
                 "price": "11,234,225Đ",
                 "title": "DJI Goggles Immersive FPV"
               }
+      ],
+      "hotnewarrival": [
+              {
+                "tab": "Top 20",
+                "pro": [
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Apple Watch Series 3 With Sport Band",
+                      "tag": "HOT"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "AirPods While Color",
+                      "tag": "SALE"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Parrot Cargo MiniDrone",
+                      "tag": "NEW"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Canon VS 5D Mark IV DSLR Camera",
+                      "tag": "-35%"
+                    }
+                ]
+              },
+              {
+                "tab": "TV & Audio",
+                "pro": [
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Apple Watch Series 3 With Sport Band",
+                      "tag": "HOT"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "AirPods While Color",
+                      "tag": "NEW"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Parrot Cargo MiniDrone",
+                      "tag": "NEW"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Canon VS 5D Mark IV DSLR Camera",
+                      "tag": "-35%"
+                    }
+                ]
+              },
+              {
+                "tab": "Cameras & Photos",
+                "pro": [
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Apple Watch Series 3 With Sport Band",
+                      "tag": "HOT"
+                    },
+                    {
+                      "price": "10,212,269Đ",
+                      "title": "AirPods While Color",
+                      "tag": "SALE"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Parrot Cargo MiniDrone",
+                      "tag": "NEW"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Canon VS 5D Mark IV DSLR Camera",
+                      "tag": "-35%"
+                    }
+                ]
+              },
+              {
+                "tab": "Monitors",
+                "pro": [
+                    {
+                      "price": "10,212,269Đ",
+                      "title": "Apple Watch Series 3 With Sport Band",
+                      "tag": "HOT"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "AirPods While Color",
+                      "tag": "SALE"
+                    },
+                    {
+                      "price": "10,212,269Đ",
+                      "title": "Parrot Cargo MiniDrone",
+                      "tag": "NEW"
+                    },
+                    {
+                      "price": "9,212,269Đ",
+                      "title": "Canon VS 5D Mark IV DSLR Camera",
+                      "tag": "-35%"
+                    }
+                ]
+              }
       ]
   }
 }
