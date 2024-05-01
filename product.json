@@ -236,6 +236,113 @@
                     }
                 ]
               }
+      ],
+      "todaysdeals": [
+              {
+                "tab": "TV & Audio",
+                "pro": [
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "12,800,000Đ",
+                      "title": "TV SamSung 65’’ 65Q65A QLED Smart 4K",
+                      "review": 25
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    }
+                ]
+              },
+              {
+                "tab": "Computers & Laptops",
+                "pro": [
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "12,800,000Đ",
+                      "title": "TV SamSung 65’’ 65Q65A QLED Smart 4K",
+                      "review": 25
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    }
+                ]
+              },
+              {
+                "tab": "Cameras & Photos",
+                "pro": [
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "12,800,000Đ",
+                      "title": "TV SamSung 65’’ 65Q65A QLED Smart 4K",
+                      "review": 25
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    },
+                    {
+                      "price": "14,190,000Đ",
+                      "title": "TV SamSung 65’’ QAQ65Q70B QLED Smart 4K",
+                      "review": 17
+                    }
+                ]
+              }
       ]
   }
 }
