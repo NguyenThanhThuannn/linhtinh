@@ -1,0 +1,39 @@
+{
+  "code": 1,
+  "message": "success",
+  "data": {
+        "category": [
+                {
+                    "name": "Audio",
+                    "item": [
+                          {
+                              "name": "Headphone"
+                          },
+                          {
+                              "name": "Earphone"
+                          },
+                          {
+                              "name": "Speaker"
+                          },
+                          {
+                              "name": "Microphone"
+                          }
+                    ]
+                },
+                {
+                    "name": "Smart Watches"
+                },
+                {
+                    "name": "Monitor",
+                    "item": [
+                          {
+                              "name": "LCD"
+                          },
+                          {
+                              "name": "AMOLED"
+                          }
+                    ]
+                }
+        ]
+  }
+}
