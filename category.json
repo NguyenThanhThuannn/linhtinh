@@ -7,7 +7,381 @@
                     "name": "Audio",
                     "item": [
                           {
-                              "name": "Headphone"
+                              "name": "Headphone",
+                              "pro": [
+                                    {
+                                      "type": "AUDIO",
+                                      "price": "5,792,000Đ",
+                                      "title": "Bose SoundLink Revolve+ Portable Bluetooth Speaker, with Bose Charging",
+                                      "price_sale": "4,290,000Đ",
+                                      "tag": "-35%",
+                                      "status": true,
+                                      "description": "Meet SoundLink Revolve+, the best-performing portable Bluetooth speaker from Bose. It’s engineered to spread deep. jaw-dropping sound in every direction.",
+                                      "subDesItem": [
+                                                {
+                                                  "item": "-The best-performing portable speaker from Bose"
+                                                },
+                                                {
+                                                  "item": "-Flexible fabric handle makes it easy to grab and go"
+                                                },
+                                                {
+                                                  "item": "-Pair two speakers together for stereo or party mode playback"
+                                                }
+                                      ],
+                                      "SKU": "93799",
+                                      "pro": [
+                                          {
+                                            "price": "11.449.995Đ",
+                                            "title": "DJI Goggles Immersive FPV"
+                                          },
+                                          {
+                                            "price": "2.925.920Đ",
+                                            "title": "Google Dual-Band Wi-Fi Router"
+                                          },
+                                          {
+                                            "price": "2.543.227Đ",
+                                            "title": "Gear Controller   Step Into Rift"
+                                          }
+                                      ],
+                                      "relatePro": [
+                                          {
+                                            "price": "7,489,000Đ",
+                                            "title": "Hover Camera Passport Personal Photographer"
+                                          },
+                                          {
+                                            "price": "5,550,000Đ",
+                                            "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+                                            "price_sale": "4,499,000Đ ",
+                                            "tag": "SALE"
+                                          },
+                                          {
+                                            "price": "5,200,000Đ",
+                                            "title": "GoPro HERO5 Session Camera"
+                                          },
+                                          {
+                                            "price": "3,994,230Đ",
+                                            "title": "AirPods White Color",
+                                            "tag": "NEW"
+                                          },
+                                          {
+                                            "price": "2,590,000Đ",
+                                            "title": "Beats Black Earphones"
+                                          },
+                                          {
+                                            "price": "12,950,000Đ",
+                                            "title": "August Smart Lock HomeKit Enabled"
+                                          },
+                                          {
+                                            "price": "7,489,000Đ",
+                                            "title": "Hover Camera Passport Personal Photographer",
+                                            "tag": "-25%"
+                                          },
+                                          {
+                                            "price": "5,550,000Đ",
+                                            "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+                                            "price_sale": "4,499,000Đ ",
+                                            "tag": "SALE"
+                                          },
+                                          {
+                                            "price": "5,200,000Đ",
+                                            "title": "GoPro HERO5 Session Camera"
+                                          },
+                                          {
+                                            "price": "3,994,230Đ",
+                                            "title": "AirPods White Color",
+                                            "tag": "NEW"
+                                          },
+                                          {
+                                            "price": "2,590,000Đ",
+                                            "title": "Beats Black Earphones",
+                                            "tag": "HOT"
+                                          },
+                                          {
+                                            "price": "12,950,000Đ",
+                                            "title": "August Smart Lock HomeKit Enabled"
+                                          }
+                                      ]
+                                    },
+                                    {
+                                      "type": "AUDIO",
+                                      "price": "5,792,000Đ",
+                                      "title": "Bose SoundLink Revolve+ Portable Bluetooth Speaker, with Bose Charging",
+                                      "price_sale": "4,290,000Đ",
+                                      "tag": "-35%",
+                                      "status": true,
+                                      "description": "Meet SoundLink Revolve+, the best-performing portable Bluetooth speaker from Bose. It’s engineered to spread deep. jaw-dropping sound in every direction.",
+                                      "subDesItem": [
+                                                {
+                                                  "item": "-The best-performing portable speaker from Bose"
+                                                },
+                                                {
+                                                  "item": "-Flexible fabric handle makes it easy to grab and go"
+                                                },
+                                                {
+                                                  "item": "-Pair two speakers together for stereo or party mode playback"
+                                                }
+                                      ],
+                                      "SKU": "93799",
+                                      "pro": [
+                                          {
+                                            "price": "11.449.995Đ",
+                                            "title": "DJI Goggles Immersive FPV"
+                                          },
+                                          {
+                                            "price": "2.925.920Đ",
+                                            "title": "Google Dual-Band Wi-Fi Router"
+                                          },
+                                          {
+                                            "price": "2.543.227Đ",
+                                            "title": "Gear Controller   Step Into Rift"
+                                          }
+                                      ],
+                                      "relatePro": [
+                                          {
+                                            "price": "7,489,000Đ",
+                                            "title": "Hover Camera Passport Personal Photographer"
+                                          },
+                                          {
+                                            "price": "5,550,000Đ",
+                                            "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+                                            "price_sale": "4,499,000Đ ",
+                                            "tag": "SALE"
+                                          },
+                                          {
+                                            "price": "5,200,000Đ",
+                                            "title": "GoPro HERO5 Session Camera"
+                                          },
+                                          {
+                                            "price": "3,994,230Đ",
+                                            "title": "AirPods White Color",
+                                            "tag": "NEW"
+                                          },
+                                          {
+                                            "price": "2,590,000Đ",
+                                            "title": "Beats Black Earphones"
+                                          },
+                                          {
+                                            "price": "12,950,000Đ",
+                                            "title": "August Smart Lock HomeKit Enabled"
+                                          },
+                                          {
+                                            "price": "7,489,000Đ",
+                                            "title": "Hover Camera Passport Personal Photographer",
+                                            "tag": "-25%"
+                                          },
+                                          {
+                                            "price": "5,550,000Đ",
+                                            "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+                                            "price_sale": "4,499,000Đ ",
+                                            "tag": "SALE"
+                                          },
+                                          {
+                                            "price": "5,200,000Đ",
+                                            "title": "GoPro HERO5 Session Camera"
+                                          },
+                                          {
+                                            "price": "3,994,230Đ",
+                                            "title": "AirPods White Color",
+                                            "tag": "NEW"
+                                          },
+                                          {
+                                            "price": "2,590,000Đ",
+                                            "title": "Beats Black Earphones",
+                                            "tag": "HOT"
+                                          },
+                                          {
+                                            "price": "12,950,000Đ",
+                                            "title": "August Smart Lock HomeKit Enabled"
+                                          }
+                                      ]
+                                    },
+                                    {
+                                      "type": "AUDIO",
+                                      "price": "5,792,000Đ",
+                                      "title": "Bose SoundLink Revolve+ Portable Bluetooth Speaker, with Bose Charging",
+                                      "price_sale": "4,290,000Đ",
+                                      "tag": "-35%",
+                                      "status": true,
+                                      "description": "Meet SoundLink Revolve+, the best-performing portable Bluetooth speaker from Bose. It’s engineered to spread deep. jaw-dropping sound in every direction.",
+                                      "subDesItem": [
+                                                {
+                                                  "item": "-The best-performing portable speaker from Bose"
+                                                },
+                                                {
+                                                  "item": "-Flexible fabric handle makes it easy to grab and go"
+                                                },
+                                                {
+                                                  "item": "-Pair two speakers together for stereo or party mode playback"
+                                                }
+                                      ],
+                                      "SKU": "93799",
+                                      "pro": [
+                                          {
+                                            "price": "11.449.995Đ",
+                                            "title": "DJI Goggles Immersive FPV"
+                                          },
+                                          {
+                                            "price": "2.925.920Đ",
+                                            "title": "Google Dual-Band Wi-Fi Router"
+                                          },
+                                          {
+                                            "price": "2.543.227Đ",
+                                            "title": "Gear Controller   Step Into Rift"
+                                          }
+                                      ],
+                                      "relatePro": [
+                                          {
+                                            "price": "7,489,000Đ",
+                                            "title": "Hover Camera Passport Personal Photographer"
+                                          },
+                                          {
+                                            "price": "5,550,000Đ",
+                                            "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+                                            "price_sale": "4,499,000Đ ",
+                                            "tag": "SALE"
+                                          },
+                                          {
+                                            "price": "5,200,000Đ",
+                                            "title": "GoPro HERO5 Session Camera"
+                                          },
+                                          {
+                                            "price": "3,994,230Đ",
+                                            "title": "AirPods White Color",
+                                            "tag": "NEW"
+                                          },
+                                          {
+                                            "price": "2,590,000Đ",
+                                            "title": "Beats Black Earphones"
+                                          },
+                                          {
+                                            "price": "12,950,000Đ",
+                                            "title": "August Smart Lock HomeKit Enabled"
+                                          },
+                                          {
+                                            "price": "7,489,000Đ",
+                                            "title": "Hover Camera Passport Personal Photographer",
+                                            "tag": "-25%"
+                                          },
+                                          {
+                                            "price": "5,550,000Đ",
+                                            "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+                                            "price_sale": "4,499,000Đ ",
+                                            "tag": "SALE"
+                                          },
+                                          {
+                                            "price": "5,200,000Đ",
+                                            "title": "GoPro HERO5 Session Camera"
+                                          },
+                                          {
+                                            "price": "3,994,230Đ",
+                                            "title": "AirPods White Color",
+                                            "tag": "NEW"
+                                          },
+                                          {
+                                            "price": "2,590,000Đ",
+                                            "title": "Beats Black Earphones",
+                                            "tag": "HOT"
+                                          },
+                                          {
+                                            "price": "12,950,000Đ",
+                                            "title": "August Smart Lock HomeKit Enabled"
+                                          }
+                                      ]
+                                    },
+                                    {
+                                      "type": "AUDIO",
+                                      "price": "5,792,000Đ",
+                                      "title": "Bose SoundLink Revolve+ Portable Bluetooth Speaker, with Bose Charging",
+                                      "price_sale": "4,290,000Đ",
+                                      "tag": "-35%",
+                                      "status": true,
+                                      "description": "Meet SoundLink Revolve+, the best-performing portable Bluetooth speaker from Bose. It’s engineered to spread deep. jaw-dropping sound in every direction.",
+                                      "subDesItem": [
+                                                {
+                                                  "item": "-The best-performing portable speaker from Bose"
+                                                },
+                                                {
+                                                  "item": "-Flexible fabric handle makes it easy to grab and go"
+                                                },
+                                                {
+                                                  "item": "-Pair two speakers together for stereo or party mode playback"
+                                                }
+                                      ],
+                                      "SKU": "93799",
+                                      "pro": [
+                                          {
+                                            "price": "11.449.995Đ",
+                                            "title": "DJI Goggles Immersive FPV"
+                                          },
+                                          {
+                                            "price": "2.925.920Đ",
+                                            "title": "Google Dual-Band Wi-Fi Router"
+                                          },
+                                          {
+                                            "price": "2.543.227Đ",
+                                            "title": "Gear Controller   Step Into Rift"
+                                          }
+                                      ],
+                                      "relatePro": [
+                                          {
+                                            "price": "7,489,000Đ",
+                                            "title": "Hover Camera Passport Personal Photographer"
+                                          },
+                                          {
+                                            "price": "5,550,000Đ",
+                                            "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+                                            "price_sale": "4,499,000Đ ",
+                                            "tag": "SALE"
+                                          },
+                                          {
+                                            "price": "5,200,000Đ",
+                                            "title": "GoPro HERO5 Session Camera"
+                                          },
+                                          {
+                                            "price": "3,994,230Đ",
+                                            "title": "AirPods White Color",
+                                            "tag": "NEW"
+                                          },
+                                          {
+                                            "price": "2,590,000Đ",
+                                            "title": "Beats Black Earphones"
+                                          },
+                                          {
+                                            "price": "12,950,000Đ",
+                                            "title": "August Smart Lock HomeKit Enabled"
+                                          },
+                                          {
+                                            "price": "7,489,000Đ",
+                                            "title": "Hover Camera Passport Personal Photographer",
+                                            "tag": "-25%"
+                                          },
+                                          {
+                                            "price": "5,550,000Đ",
+                                            "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+                                            "price_sale": "4,499,000Đ ",
+                                            "tag": "SALE"
+                                          },
+                                          {
+                                            "price": "5,200,000Đ",
+                                            "title": "GoPro HERO5 Session Camera"
+                                          },
+                                          {
+                                            "price": "3,994,230Đ",
+                                            "title": "AirPods White Color",
+                                            "tag": "NEW"
+                                          },
+                                          {
+                                            "price": "2,590,000Đ",
+                                            "title": "Beats Black Earphones",
+                                            "tag": "HOT"
+                                          },
+                                          {
+                                            "price": "12,950,000Đ",
+                                            "title": "August Smart Lock HomeKit Enabled"
+                                          }
+                                      ]
+                                    }
+                              ]
                           },
                           {
                               "name": "Earphone"
