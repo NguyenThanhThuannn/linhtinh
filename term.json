@@ -1,0 +1,108 @@
+{
+  "code": 1,
+  "message": "success",
+  "data": {
+        "term": [
+              {
+                "title": "Đăng ký tài khoản",
+                "item": [
+                      {
+                        "title": "- Bạn phải tạo tài khoản để sử dụng một số tính năng nhất định của ứng dụng."
+                      },
+                      {
+                        "title": "- Bạn có trách nhiệm cung cấp thông tin chính xác và cập nhật trong quá trình đăng ký."
+                      },
+                      {
+                        "title": " - Bạn phải bảo vệ thông tin xác thực tài khoản của mình và thông báo ngay cho chúng tôi về bất kỳ hành vi truy cập hoặc sử dụng trái phép tài khoản của bạn."
+                      }
+                ]
+              },
+              {
+                "title": "Thông tin sản phẩm và giá cả",
+                "item": [
+                      {
+                        "title": "- Ứng dụng nỗ lực cung cấp thông tin mô tả, hình ảnh và giá cả sản phẩm chính xác."
+                      },
+                      {
+                        "title": "- Chúng tôi có quyền sửa đổi chi tiết sản phẩm và giá cả mà không cần thông báo trước."
+                      },
+                      {
+                        "title": "- Trong trường hợp có sai sót, chúng tôi có thể hủy hoặc từ chối các đơn hàng đã đặt đối với những sản phẩm sai giá."
+                      }
+                ]
+              },
+              {
+                "title": "Đặt hàng và hoàn thành đơn hàng",
+                "item": [
+                      {
+                        "title": "- Khi đặt hàng trên ứng dụng, bạn đồng ý mua sản phẩm đã chọn với mức giá đã nêu."
+                      },
+                      {
+                        "title": "- Chúng tôi có quyền chấp nhận hoặc từ chối bất kỳ đơn đặt hàng nào và chúng tôi có thể hủy đơn hàng do không có sản phẩm, lỗi về giá hoặc nghi ngờ hoạt động gian lận."
+                      },
+                      {
+                        "title": "- Sau khi đơn hàng được xác nhận, chúng tôi sẽ nỗ lực hợp lý để hoàn thành và giao hàng kịp thời."
+                      }
+                ]
+              },
+              {
+                "title": "Thanh toán",
+                "item": [
+                      {
+                        "title": "- Bằng cách cung cấp thông tin thanh toán, bạn tuyên bố và đảm bảo rằng bạn được phép sử dụng phương thức thanh toán đã chọn."
+                      },
+                      {
+                        "title": "- Tất cả các khoản thanh toán phải được xác minh và phê duyệt bởi các tổ chức tài chính có liên quan."
+                      }
+                ]
+              },
+              {
+                "title": "Vận chuyển và giao hàng",
+                "item": [
+                      {
+                        "title": "- Thời gian vận chuyển có thể thay đổi tùy theo các yếu tố ngoài tầm kiểm soát của chúng tôi, chẳng hạn như địa điểm, điều kiện thời tiết hoặc sự chậm trễ của nhà vận chuyển."
+                      },
+                      {
+                        "title": "- Rủi ro mất mát hoặc hư hỏng sản phẩm sẽ được chuyển cho bạn khi giao hàng."
+                      }
+                ]
+              },
+              {
+                "title": "Hoàn trả và hoàn tiền",
+                "item": [
+                      {
+                        "title": "- Chính sách hoàn trả và hoàn tiền  được nêu riêng và chi phối quy trình trả lại sản phẩm và yêu cầu hoàn tiền."
+                      },
+                      {
+                        "title": "- Một số sản phẩm có thể không được hoàn trả hoặc phải tuân theo các điều kiện cụ thể."
+                      }
+                ]
+              },
+              {
+                "title": "Hành vi người dùng",
+                "item": [
+                      {
+                        "title": "- Bạn đồng ý tuân thủ các quy định và pháp luật hiện hành."
+                      },
+                      {
+                        "title": "- Bạn sẽ không tham gia vào bất kỳ hoạt động nào làm gián đoạn hoặc can thiệp hoặc xâm phạm quyền của người khác."
+                      },
+                      {
+                        "title": "- Nghiêm cấm mọi hành vi sử dụng hoặc cố gắng truy cập trái phép vào các khu vực bị hạn chế hoặc tài khoản người dùng."
+                      }
+                ]
+              },
+              {
+                "title": "Giới hạn trách nhiệm pháp lý",
+                "item": [
+                      {
+                        "title": "- Chúng tôi sẽ không chịu trách nhiệm về bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên, do hậu quả hoặc trừng phạt nào phát sinh từ việc sử dụng hoặc không thể sử dụng ứng dụng của chúng tôi hoặc bất kỳ sản phẩm nào được mua thông qua ứng dụng đó."
+                      },
+                      {
+                        "title": "- Chúng tôi không đảm bảo tính chính xác, đầy đủ hoặc độ tin cậy của thông tin được cung cấp."
+                      }
+                ]
+              }
+        ]
+  }
+}
