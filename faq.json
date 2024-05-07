@@ -1,0 +1,28 @@
+{
+  "code": 1,
+  "message": ""success,
+  "data": {
+        "FAQ": [
+            {
+              "title": "Liệu tôi có thể hủy đơn hàng của mình?",
+              "description": "Có nhưng chỉ khi đơn hàng chưa được gửi đi. Bạn có thể liên hệ với bộ phận dịch vụ khách hàng của chúng tôi để yêu cầu hủy đơn hàng."
+            },
+            {
+              "title": "Tôi sẽ nhận được sản phẩm giống như ảnh chứ?",
+              "description": "Màu sắc thực tế của sản phẩm có thể khác với hình ảnh hiển thị. Mỗi màn hình hoặc màn hình di động đều có khả năng hiển thị màu sắc khác nhau và mỗi cá nhân có thể nhìn thấy những màu này một cách khác nhau. Ngoài ra, điều kiện ánh sáng tại thời điểm chụp ảnh cũng có thể ảnh hưởng đến màu sắc của ảnh."
+            },
+            {
+              "title": "Làm thế nào tôi có thể khôi phục mật khẩu?",
+              "description": "Nếu bạn quên mật khẩu của mình, bạn có thể khôi phục thông qua mục “Đăng nhập - Quên mật khẩu?” Bạn sẽ nhận một e-mail chứa đường liên kết để xác thực mật khẩu mới của bạn."
+            },
+            {
+              "title": "Liệu thông tin cá nhân của tôi được bảo mật phải không?",
+              "description": "Thông tin cá nhân của bạn được bảo mật. Chúng tôi không cho thuê, bán, trao đổi hoặc trao đổi địa chỉ email. Khi bạn đặt hàng với chúng tôi, chúng tôi sẽ thu thập tên, địa chỉ, số điện thoại, thông tin thẻ tín dụng và địa chỉ email của bạn. Chúng tôi sử dụng thông tin này để thực hiện đơn đặt hàng của bạn và liên lạc với bạn về đơn đặt hàng của bạn. Tất cả thông tin của bạn được giữ bí mật và sẽ không tiết lộ cho bất kỳ ai trừ khi có lệnh của cơ quan chính phủ."
+            },
+            {
+              "title": "Tôi có thể sử dụng những phương thức thanh toán nào để mua hàng?",
+              "description": "Chúng tôi cung cấp hai loại phương thức thanh toán: Thanh toán trực tiếp và Thanh toán trực tuyến."
+            }
+        ]
+  }
+}
