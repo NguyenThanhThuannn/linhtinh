@@ -1,0 +1,85 @@
+{
+  "code": 1,
+  "message": "success",
+  "data": {
+        "policy": [
+              {
+                "title": "Thu thập thông tin",
+                "item": [
+                      {
+                        "title": "- Thông tin cá nhân: Chúng tôi có thể thu thập thông tin cá nhân như tên, địa chỉ, email và số điện thoại khi bạn tạo tài khoản, mua hàng hoặc tương tác với các dịch vụ của chúng tôi."
+                      },
+                      {
+                        "title": "- Chi tiết giao dịch: Chúng tôi thu thập thông tin liên quan đến giao dịch mua hàng của bạn, bao gồm lịch sử đặt hàng, phương thức thanh toán và chi tiết giao hàng."
+                      },
+                      {
+                        "title": "- Dữ liệu sử dụng: Chúng tôi có thể thu thập dữ liệu về cách bạn tương tác với ứng dụng của chúng tôi, chẳng hạn như hoạt động duyệt web, truy vấn tìm kiếm và tùy chọn."
+                      }
+                ]
+              },
+              {
+                "title": "Sử dụng thông tin",
+                "item": [
+                      {
+                        "title": "- Cung cấp dịch vụ: Chúng tôi sử dụng thông tin thu thập được để xử lý đơn đặt hàng, giao sản phẩm và hỗ trợ khách hàng."
+                      },
+                      {
+                        "title": "- Cá nhân hóa: Chúng tôi có thể sử dụng thông tin của bạn để cá nhân hóa trải nghiệm mua sắm của bạn, giới thiệu sản phẩm và hiển thị các quảng cáo được nhắm mục tiêu."
+                      },
+                      {
+                        "title": "- Liên lạc: Chúng tôi có thể sử dụng thông tin liên hệ của bạn để gửi các thông tin cập nhật quan trọng, khuyến mại và bản tin. Bạn có thể từ chối những thông tin liên lạc này bất cứ lúc nào."
+                      }
+                ]
+              },
+              {
+                "title": "Chia sẻ thông tin",
+                "item": [
+                      {
+                        "title": "- Nhà cung cấp dịch vụ bên thứ ba: Chúng tôi có thể chia sẻ thông tin của bạn với các nhà cung cấp dịch vụ bên thứ ba đáng tin cậy, những người hỗ trợ chúng tôi vận hành ứng dụng, thực hiện đơn đặt hàng và cải thiện dịch vụ của chúng tôi."
+                      },
+                      {
+                        "title": "- Tuân thủ pháp luật: Chúng tôi có thể tiết lộ thông tin cá nhân nếu pháp luật yêu cầu hoặc để đáp ứng yêu cầu pháp lý hợp lệ từ cơ quan chức năng."
+                      }
+                ]
+              },
+              {
+                "title": "Bảo mật dữ liệu",
+                "item": [
+                      {
+                        "title": "- Chúng tôi thực hiện các biện pháp bảo mật thích hợp để bảo vệ thông tin của bạn khỏi bị truy cập, thay đổi, tiết lộ hoặc phá hủy trái phép."
+                      },
+                      {
+                        "title": "- Tuy nhiên, xin lưu ý rằng không có dữ liệu nào được truyền qua internet hoặc lưu trữ điện tử là an toàn 100%. Chúng tôi không thể đảm bảo an toàn tuyệt đối cho thông tin của bạn."
+                      }
+                ]
+              },
+              {
+                "title": "Quyền người dùng",
+                "item": [
+                      {
+                        "title": "- Truy cập và cập nhật: Bạn có quyền truy cập, chỉnh sửa hoặc cập nhật thông tin cá nhân của mình được lưu trữ trong ứng dụng của chúng tôi."
+                      },
+                      {
+                        "title": "- Lưu giữ dữ liệu: Chúng tôi lưu giữ thông tin cá nhân của bạn miễn là cần thiết để cung cấp dịch vụ của chúng tôi và tuân thủ các nghĩa vụ pháp lý."
+                      }
+                ]
+              },
+              {
+                "title": "Quyền riêng tư của trẻ em",
+                "item": [
+                      {
+                        "title": "- Ứng dụng không dành cho trẻ em dưới 13 tuổi. Chúng tôi không cố ý thu thập hoặc thu thập thông tin cá nhân từ trẻ em."
+                      }
+                ]
+              },
+              {
+                "title": "Cập nhật chính sách quyền riêng tư",
+                "item": [
+                      {
+                        "title": "- Chúng tôi có quyền cập nhật Chính sách quyền riêng tư này theo thời gian. Mọi thay đổi sẽ được đăng trên ứng dụng của chúng tôi và chính sách sửa đổi sẽ có hiệu lực ngay khi đăng."
+                      }
+                ]
+              }
+        ]
+  }
+}
