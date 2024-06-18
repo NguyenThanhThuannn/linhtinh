@@ -8,17 +8,17 @@
       "product_image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-bac-org.png",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "New",
       "product_item": {
         "id": 1,
         "product_id": 1,
-        "SKU": "10",
+        "SKU": 10,
         "qty_in_stock": 90,
         "product_image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-bac-org.png",
         "price": "12000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T21:02:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 5,
@@ -36,17 +36,17 @@
       "product_image": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-trang-200x200.jpg",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "New",
       "product_item": {
         "id": 2,
         "product_id": 2,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-trang-200x200.jpg",
         "price": "13000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 5,
@@ -64,17 +64,17 @@
       "product_image": "https://cdn.tgdd.vn/Products/Images/42/200533/iphone-11-pro-max-green-600x600.jpg",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "New",
       "product_item": {
         "id": 3,
         "product_id": 3,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn.tgdd.vn/Products/Images/42/200533/iphone-11-pro-max-green-600x600.jpg",
         "price": "14000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 5,
@@ -92,17 +92,17 @@
       "product_image": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-trang-13-600x600.jpg",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "Best selling",
       "product_item": {
         "id": 4,
         "product_id": 4,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-trang-13-600x600.jpg",
         "price": "16000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 5,
@@ -120,17 +120,17 @@
       "product_image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/o/download_2__1_27.png",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "Best selling",
       "product_item": {
         "id": 5,
         "product_id": 5,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/o/download_2__1_27.png",
         "price": "17000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 5,
@@ -148,17 +148,17 @@
       "product_image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "Featured",
       "product_item": {
         "id": 6,
         "product_id": 6,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
         "price": "18000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 5,
@@ -176,17 +176,17 @@
       "product_image": "https://cdn.tgdd.vn/Products/Images/44/309017/apple-macbook-air-15-inch-m2-2023-midnight-thumb-1-600x600.jpg",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "Best selling",
       "product_item": {
         "id": 7,
         "product_id": 7,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn.tgdd.vn/Products/Images/44/309017/apple-macbook-air-15-inch-m2-2023-midnight-thumb-1-600x600.jpg",
         "price": "19000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 6,
@@ -204,17 +204,17 @@
       "product_image": "https://surfacezone.vn/wp-content/uploads/2022/02/RE4OAof.jpeg",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "New",
       "product_item": {
         "id": 8,
         "product_id": 8,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://surfacezone.vn/wp-content/uploads/2022/02/RE4OAof.jpeg",
         "price": "20000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 6,
@@ -232,17 +232,17 @@
       "product_image": "https://cdn.tgdd.vn/Products/Images/1942/278554/smart-lg-4k-55-inch-55uq8000psc-00-550x340.jpg",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "Featured",
       "product_item": {
         "id": 9,
         "product_id": 9,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn.tgdd.vn/Products/Images/1942/278554/smart-lg-4k-55-inch-55uq8000psc-00-550x340.jpg",
         "price": "11000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 2,
@@ -260,17 +260,17 @@
       "product_image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_32279/smart-tivi-sams_main_356_1020.png.webp",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "Best selling",
       "product_item": {
         "id": 10,
         "product_id": 10,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_32279/smart-tivi-sams_main_356_1020.png.webp",
         "price": "12000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 2,
@@ -288,17 +288,17 @@
       "product_image": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/07/21/xiaomi-redmi-watch-3-activea-1.png",
       "created_at": "2024-06-12T02:41:50.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "Deal of the week",
       "product_item": {
         "id": 11,
         "product_id": 11,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/07/21/xiaomi-redmi-watch-3-activea-1.png",
         "price": "13000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 3,
@@ -316,17 +316,17 @@
       "product_image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/e/venu3_of_1000-01_1.png",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "New",
       "product_item": {
         "id": 12,
         "product_id": 12,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/e/venu3_of_1000-01_1.png",
         "price": "12000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 3,
@@ -344,17 +344,17 @@
       "product_image": "https://vn.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc32588ab/JBL_PartyBox_310_Hero_0176_x3.png?sw=537&sfrm=png",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "New",
       "product_item": {
         "id": 13,
         "product_id": 13,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://vn.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc32588ab/JBL_PartyBox_310_Hero_0176_x3.png?sw=537&sfrm=png",
         "price": "14000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 4,
@@ -372,17 +372,17 @@
       "product_image": "https://jblstore.com.ph/cdn/shop/files/dui_600x.jpg?v=1701140287",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "Best selling",
       "product_item": {
         "id": 14,
         "product_id": 14,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MQTQ3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671363",
         "price": "16000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 4,
@@ -400,17 +400,17 @@
       "product_image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MQTQ3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671363",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "Trending",
       "product_item": {
         "id": 15,
         "product_id": 15,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 100,
         "product_image": "https://m.media-amazon.com/images/I/71VR6c3j2bL._AC_UF1000,1000_QL80_.jpg",
         "price": "18000000.00",
         "created_at": "2024-06-12T02:36:03.000000Z",
         "updated_at": "2024-06-12T02:36:03.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 7,
@@ -428,17 +428,17 @@
       "product_image": "https://m.media-amazon.com/images/I/71VR6c3j2bL._AC_UF1000,1000_QL80_.jpg",
       "created_at": "2024-06-12T02:36:03.000000Z",
       "updated_at": "2024-06-12T02:36:03.000000Z",
-      "type": null,
+      "type": "New",
       "product_item": {
         "id": 16,
         "product_id": 16,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 30,
         "product_image": "\"https://m.media-amazon.com/images/I/71VR6c3j2bL._AC_UF1000,1000_QL80_.jpg\"",
         "price": "320000.00",
         "created_at": "2024-06-13T21:02:13.000000Z",
         "updated_at": "2024-06-13T21:02:13.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 7,
@@ -456,17 +456,17 @@
       "product_image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-bac-org.png",
       "created_at": "2024-06-12T19:27:14.000000Z",
       "updated_at": "2024-06-12T12:27:52.000000Z",
-      "type": null,
+      "type": "New",
       "product_item": {
         "id": 18,
         "product_id": 18,
-        "SKU": "0",
+        "SKU": 0,
         "qty_in_stock": 28,
         "product_image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-bac-org.png",
         "price": "12753000.00",
         "created_at": "2024-06-13T20:50:53.000000Z",
         "updated_at": "2024-06-13T20:50:53.000000Z",
-        "rating": null
+        "rating": 4
       },
       "category": {
         "id": 5,
