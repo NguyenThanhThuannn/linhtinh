@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "parent_category_id": 1,
+      "category_name": "Electronics",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T02:36:03.000000Z"
+    },
+    {
+      "id": 2,
+      "parent_category_id": 2,
+      "category_name": "TV",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T02:36:03.000000Z"
+    },
+    {
+      "id": 3,
+      "parent_category_id": 3,
+      "category_name": "Watch",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T02:36:03.000000Z"
+    },
+    {
+      "id": 4,
+      "parent_category_id": 4,
+      "category_name": "Speaker",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T02:36:03.000000Z"
+    },
+    {
+      "id": 5,
+      "parent_category_id": 5,
+      "category_name": "SmartPhone",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T02:36:03.000000Z"
+    },
+    {
+      "id": 6,
+      "parent_category_id": 6,
+      "category_name": "Laptop",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T02:36:03.000000Z"
+    },
+    {
+      "id": 7,
+      "parent_category_id": 7,
+      "category_name": "Headphone",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T02:36:03.000000Z"
+    },
+    {
+      "id": 8,
+      "parent_category_id": 8,
+      "category_name": "Linh Kiện",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T02:36:03.000000Z"
+    }
+  ]
+}
