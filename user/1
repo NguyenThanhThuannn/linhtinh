@@ -1,0 +1,42 @@
+{
+  "data": {
+    "id": 1,
+    "email": "qtrong143dd132@gmail.com",
+    "name": "LÊ QUANG TRỌNG",
+    "email_verified_at": null,
+    "phone_number": "0909707654",
+    "remember_token": null,
+    "user_image": "",
+    "role": "User",
+    "password": "$2y$12$oDxP1c4rAJl3IVIJKak7IeyM0q95.VwO.Qgm6ZEP58kd8sO1mN8dO",
+    "created_at": "2024-06-27T03:32:21.000000Z",
+    "updated_at": "2024-06-27T03:32:21.000000Z",
+    "addresses": [
+      {
+        "id": 1,
+        "address_line": "08dsasdasdasd",
+        "is_default": 0,
+        "city": "03",
+        "country_id": 2,
+        "created_at": "2024-06-27T03:32:21.000000Z",
+        "updated_at": "2024-06-27T03:32:21.000000Z"
+      },
+      {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      }
+    ],
+    "user_addresses": {
+      "id": 1,
+      "user_id": 1,
+      "address_id": "[1 , 2]",
+      "created_at": "2024-06-27T03:32:21.000000Z",
+      "updated_at": "2024-06-27T03:32:21.000000Z"
+    }
+  }
+}
