@@ -1,0 +1,103 @@
+{
+  "data": {
+    "id": 1,
+    "user_id": 1,
+    "order_date": "2024-07-01",
+    "payment_method_id": 3,
+    "shipping_address": 2,
+    "shipping_method": 3,
+    "order_total": "999999.99",
+    "order_status": 1,
+    "created_at": "2024-07-01T13:19:38.000000Z",
+    "updated_at": "2024-07-01T13:19:38.000000Z",
+    "order_lines": [
+      {
+        "id": 16,
+        "product_item_id": 2,
+        "order_id": 1,
+        "qty": 2,
+        "price": "999999.99",
+        "created_at": "2024-07-01T13:22:13.000000Z",
+        "updated_at": "2024-07-01T13:22:13.000000Z",
+        "user_review": {
+          "id": 7,
+          "user_id": 1,
+          "ordered_product_id": 16,
+          "rating_value": 0,
+          "comment": "",
+          "created_at": "2024-07-01T13:22:59.000000Z",
+          "updated_at": "2024-07-01T13:22:59.000000Z"
+        }
+      },
+      {
+        "id": 17,
+        "product_item_id": 3,
+        "order_id": 1,
+        "qty": 2,
+        "price": "999999.99",
+        "created_at": "2024-07-01T13:22:13.000000Z",
+        "updated_at": "2024-07-01T13:22:13.000000Z",
+        "user_review": {
+          "id": 8,
+          "user_id": 1,
+          "ordered_product_id": 17,
+          "rating_value": 0,
+          "comment": "",
+          "created_at": "2024-07-01T13:22:59.000000Z",
+          "updated_at": "2024-07-01T13:22:59.000000Z"
+        }
+      },
+      {
+        "id": 18,
+        "product_item_id": 5,
+        "order_id": 1,
+        "qty": 2,
+        "price": "999999.99",
+        "created_at": "2024-07-01T13:22:13.000000Z",
+        "updated_at": "2024-07-01T13:22:13.000000Z",
+        "user_review": {
+          "id": 9,
+          "user_id": 1,
+          "ordered_product_id": 18,
+          "rating_value": 0,
+          "comment": "",
+          "created_at": "2024-07-01T13:22:59.000000Z",
+          "updated_at": "2024-07-01T13:22:59.000000Z"
+        }
+      }
+    ],
+    "order_statuses": {
+      "id": 1,
+      "status": "Ordered",
+      "created_at": "2024-06-30T21:56:40.000000Z",
+      "updated_at": "2024-06-30T21:56:40.000000Z"
+    },
+    "shipping_methods": {
+      "id": 3,
+      "name": "Priority",
+      "price": "51000.00",
+      "created_at": "2024-06-28T02:00:22.000000Z",
+      "updated_at": "2024-06-29T12:05:00.000000Z"
+    },
+    "shipping_addresses": {
+      "id": 2,
+      "address_line": "[value-2]",
+      "is_default": 0,
+      "city": "[value-4]",
+      "country_id": 0,
+      "created_at": "-000001-11-30T00:00:00.000000Z",
+      "updated_at": "-000001-11-30T00:00:00.000000Z"
+    },
+    "payment_method_ids": {
+      "id": 3,
+      "user_id": 1,
+      "payment_type_id": 2,
+      "provider": "Mastercard",
+      "account_number": "42424242424242",
+      "expiry_date": "2020-11-10",
+      "is_default": 1,
+      "created_at": "2024-07-01T14:17:09.000000Z",
+      "updated_at": "2024-07-01T14:17:09.000000Z"
+    }
+  }
+}
