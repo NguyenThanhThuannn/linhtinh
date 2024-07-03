@@ -1,0 +1,63 @@
+
+{
+  "data": {
+    "id": 1,
+    "category_id": 5,
+    "name": "iPhone XSM",
+    "description": "Description for Smartphone A",
+    "product_image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-bac-org.png",
+    "created_at": "2024-06-12T02:36:03.000000Z",
+    "updated_at": "2024-06-12T02:36:03.000000Z",
+    "type": "New",
+    "product_item": {
+      "id": 1,
+      "product_id": 1,
+      "SKU": 10,
+      "qty_in_stock": 90,
+      "product_image": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-bac-org.png",
+      "price": "12000000.00",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T21:02:03.000000Z",
+      "rating": 4
+    },
+    "category": {
+      "id": 5,
+      "parent_category_id": 5,
+      "category_name": "SmartPhone",
+      "created_at": "2024-06-12T02:36:03.000000Z",
+      "updated_at": "2024-06-12T02:36:03.000000Z"
+    }
+  },
+  "colors": [
+    {
+      "name": "Red",
+      "class": "bg-red-800",
+      "selectedClass": "ring-red-800"
+    },
+    {
+      "name": "Blue",
+      "class": "bg-indigo-600",
+      "selectedClass": "ring-indigo-600"
+    },
+    {
+      "name": "White",
+      "class": "bg-white",
+      "selectedClass": "ring-gray-400"
+    }
+  ],
+  "sizes": [],
+  "storages": [
+    {
+      "name": "64GB",
+      "inStock": true
+    },
+    {
+      "name": "128GB",
+      "inStock": true
+    },
+    {
+      "name": "8GB",
+      "inStock": true
+    }
+  ]
+}
