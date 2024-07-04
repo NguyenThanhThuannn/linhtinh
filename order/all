@@ -1,0 +1,809 @@
+{
+  "data": [
+    {
+      "id": 10,
+      "user_id": 1,
+      "order_date": "2024-07-03 20:13:23",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "75000000.00",
+      "order_status": 2,
+      "created_at": "2024-07-03T16:32:38.000000Z",
+      "updated_at": "2024-07-03T16:32:38.000000Z",
+      "order_lines": [
+        {
+          "id": 28,
+          "product_item_id": 3,
+          "order_id": 10,
+          "qty": 4,
+          "price": "14000000.00",
+          "created_at": "2024-07-03T16:32:38.000000Z",
+          "updated_at": "2024-07-03T16:32:38.000000Z",
+          "user_review": {
+            "id": 12,
+            "user_id": 1,
+            "ordered_product_id": 28,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T09:32:38.000000Z",
+            "updated_at": "2024-07-03T09:32:38.000000Z"
+          }
+        },
+        {
+          "id": 29,
+          "product_item_id": 7,
+          "order_id": 10,
+          "qty": 1,
+          "price": "19000000.00",
+          "created_at": "2024-07-03T16:32:38.000000Z",
+          "updated_at": "2024-07-03T16:32:38.000000Z",
+          "user_review": {
+            "id": 13,
+            "user_id": 1,
+            "ordered_product_id": 29,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T09:32:38.000000Z",
+            "updated_at": "2024-07-03T09:32:38.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 2,
+        "status": "In Transit",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 11,
+      "user_id": 1,
+      "order_date": "2024-07-03 16:38:12",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "75000000.00",
+      "order_status": 1,
+      "created_at": "2024-07-03T16:38:12.000000Z",
+      "updated_at": "2024-07-03T16:38:12.000000Z",
+      "order_lines": [
+        {
+          "id": 30,
+          "product_item_id": 3,
+          "order_id": 11,
+          "qty": 4,
+          "price": "14000000.00",
+          "created_at": "2024-07-03T16:38:12.000000Z",
+          "updated_at": "2024-07-03T16:38:12.000000Z",
+          "user_review": {
+            "id": 14,
+            "user_id": 1,
+            "ordered_product_id": 30,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T09:38:12.000000Z",
+            "updated_at": "2024-07-03T09:38:12.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 1,
+        "status": "Ordered",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 12,
+      "user_id": 1,
+      "order_date": "2024-07-03 16:38:51",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "75000000.00",
+      "order_status": 1,
+      "created_at": "2024-07-03T16:38:51.000000Z",
+      "updated_at": "2024-07-03T16:38:51.000000Z",
+      "order_lines": [
+        {
+          "id": 31,
+          "product_item_id": 3,
+          "order_id": 12,
+          "qty": 4,
+          "price": "14000000.00",
+          "created_at": "2024-07-03T16:38:51.000000Z",
+          "updated_at": "2024-07-03T16:38:51.000000Z",
+          "user_review": {
+            "id": 15,
+            "user_id": 1,
+            "ordered_product_id": 31,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T09:38:51.000000Z",
+            "updated_at": "2024-07-03T09:38:51.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 1,
+        "status": "Ordered",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 13,
+      "user_id": 1,
+      "order_date": "2024-07-03 20:22:17",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "75000000.00",
+      "order_status": 3,
+      "created_at": "2024-07-03T16:40:28.000000Z",
+      "updated_at": "2024-07-03T16:40:28.000000Z",
+      "order_lines": [
+        {
+          "id": 32,
+          "product_item_id": 3,
+          "order_id": 13,
+          "qty": 4,
+          "price": "14000000.00",
+          "created_at": "2024-07-03T16:40:28.000000Z",
+          "updated_at": "2024-07-03T16:40:28.000000Z",
+          "user_review": {
+            "id": 16,
+            "user_id": 1,
+            "ordered_product_id": 32,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T09:40:28.000000Z",
+            "updated_at": "2024-07-03T09:40:28.000000Z"
+          }
+        },
+        {
+          "id": 33,
+          "product_item_id": 7,
+          "order_id": 13,
+          "qty": 1,
+          "price": "19000000.00",
+          "created_at": "2024-07-03T16:40:28.000000Z",
+          "updated_at": "2024-07-03T16:40:28.000000Z",
+          "user_review": {
+            "id": 17,
+            "user_id": 1,
+            "ordered_product_id": 33,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T09:40:28.000000Z",
+            "updated_at": "2024-07-03T09:40:28.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 3,
+        "status": "Delivered",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 14,
+      "user_id": 3,
+      "order_date": "2024-07-03 20:22:27",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "27000000.00",
+      "order_status": 4,
+      "created_at": "2024-07-03T16:47:29.000000Z",
+      "updated_at": "2024-07-03T16:47:29.000000Z",
+      "order_lines": [
+        {
+          "id": 34,
+          "product_item_id": 3,
+          "order_id": 14,
+          "qty": 2,
+          "price": "14000000.00",
+          "created_at": "2024-07-03T16:47:29.000000Z",
+          "updated_at": "2024-07-03T16:47:29.000000Z",
+          "user_review": {
+            "id": 18,
+            "user_id": 3,
+            "ordered_product_id": 34,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T09:47:29.000000Z",
+            "updated_at": "2024-07-03T09:47:29.000000Z"
+          }
+        },
+        {
+          "id": 35,
+          "product_item_id": 2,
+          "order_id": 14,
+          "qty": 2,
+          "price": "13000000.00",
+          "created_at": "2024-07-03T16:47:29.000000Z",
+          "updated_at": "2024-07-03T16:47:29.000000Z",
+          "user_review": {
+            "id": 19,
+            "user_id": 3,
+            "ordered_product_id": 35,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T09:47:29.000000Z",
+            "updated_at": "2024-07-03T09:47:29.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 4,
+        "status": "Cancelled",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 15,
+      "user_id": 3,
+      "order_date": "2024-07-03 18:38:59",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "48000000.00",
+      "order_status": 1,
+      "created_at": "2024-07-03T18:38:59.000000Z",
+      "updated_at": "2024-07-03T18:38:59.000000Z",
+      "order_lines": [
+        {
+          "id": 36,
+          "product_item_id": 4,
+          "order_id": 15,
+          "qty": 3,
+          "price": "16000000.00",
+          "created_at": "2024-07-03T18:38:59.000000Z",
+          "updated_at": "2024-07-03T18:38:59.000000Z",
+          "user_review": {
+            "id": 20,
+            "user_id": 3,
+            "ordered_product_id": 36,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T11:38:59.000000Z",
+            "updated_at": "2024-07-03T11:38:59.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 1,
+        "status": "Ordered",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 16,
+      "user_id": 3,
+      "order_date": "2024-07-03 20:34:20",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "32000000.00",
+      "order_status": 1,
+      "created_at": "2024-07-03T20:34:20.000000Z",
+      "updated_at": "2024-07-03T20:34:20.000000Z",
+      "order_lines": [
+        {
+          "id": 37,
+          "product_item_id": 4,
+          "order_id": 16,
+          "qty": 2,
+          "price": "16000000.00",
+          "created_at": "2024-07-03T20:34:20.000000Z",
+          "updated_at": "2024-07-03T20:34:20.000000Z",
+          "user_review": {
+            "id": 21,
+            "user_id": 3,
+            "ordered_product_id": 37,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-03T13:34:20.000000Z",
+            "updated_at": "2024-07-03T13:34:20.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 1,
+        "status": "Ordered",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 17,
+      "user_id": 3,
+      "order_date": "2024-07-04 14:56:12",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "100000.00",
+      "order_status": 1,
+      "created_at": "2024-07-04T14:56:12.000000Z",
+      "updated_at": "2024-07-04T14:56:12.000000Z",
+      "order_lines": [
+        {
+          "id": 38,
+          "product_item_id": 10,
+          "order_id": 17,
+          "qty": 2,
+          "price": "100000.00",
+          "created_at": "2024-07-04T14:56:12.000000Z",
+          "updated_at": "2024-07-04T14:56:12.000000Z",
+          "user_review": {
+            "id": 22,
+            "user_id": 3,
+            "ordered_product_id": 38,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-04T07:56:12.000000Z",
+            "updated_at": "2024-07-04T07:56:12.000000Z"
+          }
+        },
+        {
+          "id": 39,
+          "product_item_id": 15,
+          "order_id": 17,
+          "qty": 2,
+          "price": "100000.00",
+          "created_at": "2024-07-04T14:56:12.000000Z",
+          "updated_at": "2024-07-04T14:56:12.000000Z",
+          "user_review": {
+            "id": 23,
+            "user_id": 3,
+            "ordered_product_id": 39,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-04T07:56:12.000000Z",
+            "updated_at": "2024-07-04T07:56:12.000000Z"
+          }
+        },
+        {
+          "id": 40,
+          "product_item_id": 16,
+          "order_id": 17,
+          "qty": 2,
+          "price": "100000.00",
+          "created_at": "2024-07-04T14:56:12.000000Z",
+          "updated_at": "2024-07-04T14:56:12.000000Z",
+          "user_review": {
+            "id": 24,
+            "user_id": 3,
+            "ordered_product_id": 40,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-04T07:56:12.000000Z",
+            "updated_at": "2024-07-04T07:56:12.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 1,
+        "status": "Ordered",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 18,
+      "user_id": 3,
+      "order_date": "2024-07-04 14:56:28",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "100000.00",
+      "order_status": 1,
+      "created_at": "2024-07-04T14:56:28.000000Z",
+      "updated_at": "2024-07-04T14:56:28.000000Z",
+      "order_lines": [
+        {
+          "id": 41,
+          "product_item_id": 10,
+          "order_id": 18,
+          "qty": 2,
+          "price": "10000.00",
+          "created_at": "2024-07-04T14:56:28.000000Z",
+          "updated_at": "2024-07-04T14:56:28.000000Z",
+          "user_review": {
+            "id": 25,
+            "user_id": 3,
+            "ordered_product_id": 41,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-04T07:56:29.000000Z",
+            "updated_at": "2024-07-04T07:56:29.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 1,
+        "status": "Ordered",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 19,
+      "user_id": 3,
+      "order_date": "2024-07-04 14:56:48",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "100000.00",
+      "order_status": 1,
+      "created_at": "2024-07-04T14:56:48.000000Z",
+      "updated_at": "2024-07-04T14:56:48.000000Z",
+      "order_lines": [
+        {
+          "id": 42,
+          "product_item_id": 10,
+          "order_id": 19,
+          "qty": 2,
+          "price": "10000.00",
+          "created_at": "2024-07-04T14:56:48.000000Z",
+          "updated_at": "2024-07-04T14:56:48.000000Z",
+          "user_review": {
+            "id": 26,
+            "user_id": 3,
+            "ordered_product_id": 42,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-04T07:56:48.000000Z",
+            "updated_at": "2024-07-04T07:56:48.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 1,
+        "status": "Ordered",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    },
+    {
+      "id": 20,
+      "user_id": 3,
+      "order_date": "2024-07-04 15:31:05",
+      "payment_method_id": 3,
+      "shipping_address": 2,
+      "shipping_method": 1,
+      "order_total": "32000000.00",
+      "order_status": 1,
+      "created_at": "2024-07-04T15:31:05.000000Z",
+      "updated_at": "2024-07-04T15:31:05.000000Z",
+      "order_lines": [
+        {
+          "id": 43,
+          "product_item_id": 4,
+          "order_id": 20,
+          "qty": 2,
+          "price": "16000000.00",
+          "created_at": "2024-07-04T15:31:05.000000Z",
+          "updated_at": "2024-07-04T15:31:05.000000Z",
+          "user_review": {
+            "id": 27,
+            "user_id": 3,
+            "ordered_product_id": 43,
+            "rating_value": 0,
+            "comment": "",
+            "created_at": "2024-07-04T08:31:05.000000Z",
+            "updated_at": "2024-07-04T08:31:05.000000Z"
+          }
+        }
+      ],
+      "order_statuses": {
+        "id": 1,
+        "status": "Ordered",
+        "created_at": "2024-06-30T21:56:40.000000Z",
+        "updated_at": "2024-06-30T21:56:40.000000Z"
+      },
+      "shipping_methods": {
+        "id": 1,
+        "name": "Standard",
+        "price": "20000.00",
+        "created_at": "2024-06-28T00:30:39.000000Z",
+        "updated_at": "2024-06-28T00:30:39.000000Z"
+      },
+      "shipping_addresses": {
+        "id": 2,
+        "address_line": "[value-2]",
+        "is_default": 0,
+        "city": "[value-4]",
+        "country_id": 0,
+        "created_at": "-000001-11-30T00:00:00.000000Z",
+        "updated_at": "-000001-11-30T00:00:00.000000Z"
+      },
+      "payment_method_ids": {
+        "id": 3,
+        "user_id": 1,
+        "payment_type_id": 2,
+        "provider": "Mastercard",
+        "account_number": "42424242424242",
+        "expiry_date": "2020-11-10",
+        "is_default": 1,
+        "created_at": "2024-07-01T14:17:09.000000Z",
+        "updated_at": "2024-07-01T14:17:09.000000Z"
+      }
+    }
+  ]
+}
