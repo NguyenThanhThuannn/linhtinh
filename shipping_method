@@ -1,0 +1,33 @@
+//localhost/api/shipping_method
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Standard",
+      "price": "20000.00",
+      "created_at": "2024-06-28T00:30:39.000000Z",
+      "updated_at": "2024-06-28T00:30:39.000000Z"
+    },
+    {
+      "id": 2,
+      "name": "Express",
+      "price": "40000.00",
+      "created_at": "2024-06-28T01:27:22.000000Z",
+      "updated_at": "2024-06-28T01:59:56.000000Z"
+    },
+    {
+      "id": 3,
+      "name": "Priority",
+      "price": "51000.00",
+      "created_at": "2024-06-28T02:00:22.000000Z",
+      "updated_at": "2024-06-29T12:05:00.000000Z"
+    },
+    {
+      "id": 4,
+      "name": "SuperFast",
+      "price": "100000.00",
+      "created_at": "2024-06-29T12:22:52.000000Z",
+      "updated_at": "2024-06-30T20:10:43.000000Z"
+    }
+  ]
+}
