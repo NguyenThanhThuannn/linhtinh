@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 3,
+    "email": "ltrong@gmail.com",
+    "name": "Royal Sundaram",
+    "email_verified_at": null,
+    "phone_number": null,
+    "remember_token": null,
+    "user_image": "https://toquoc.mediacdn.vn/thumb_w/640/280518851207290880/2022/12/15/p0dnxrcv-16710704848821827978943.jpg",
+    "role": "Super Admin",
+    "password": "$2y$12$CSdd.gzIEmnrJNzrZdYvZuFN3C5Bd/MWjICFGj6qFQqCIr8im9tsu",
+    "created_at": "2024-06-29T20:45:03.000000Z",
+    "updated_at": "2024-06-29T20:45:03.000000Z",
+    "addresses": [],
+    "user_addresses": {
+      "id": 3,
+      "user_id": 3,
+      "address_id": "[]",
+      "created_at": "-000001-11-30T00:00:00.000000Z",
+      "updated_at": "-000001-11-30T00:00:00.000000Z"
+    },
+    "shopping_cart": {
+      "id": 3,
+      "user_id": 3,
+      "created_at": null,
+      "updated_at": null,
+      "items": [
+        {
+          "id": 132,
+          "cart_id": 3,
+          "product_item_id": 14,
+          "qty": 1,
+          "product_image": "https://jblstore.com.ph/cdn/shop/files/dui_600x.jpg?v=1701140287",
+          "created_at": "2024-07-04T08:39:18.000000Z",
+          "updated_at": "2024-07-04T08:39:18.000000Z",
+          "product": {
+            "id": 14,
+            "product_id": 14,
+            "SKU": 0,
+            "qty_in_stock": 100,
+            "product_image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MQTQ3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671363",
+            "price": "16000000.00",
+            "created_at": "2024-06-12T02:36:03.000000Z",
+            "updated_at": "2024-06-12T02:36:03.000000Z",
+            "rating": 4
+          }
+        },
+        {
+          "id": 133,
+          "cart_id": 3,
+          "product_item_id": 10,
+          "qty": 1,
+          "product_image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_32279/smart-tivi-sams_main_356_1020.png.webp",
+          "created_at": "2024-07-04T08:39:19.000000Z",
+          "updated_at": "2024-07-04T08:39:19.000000Z",
+          "product": {
+            "id": 10,
+            "product_id": 10,
+            "SKU": 0,
+            "qty_in_stock": 100,
+            "product_image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_32279/smart-tivi-sams_main_356_1020.png.webp",
+            "price": "12000000.00",
+            "created_at": "2024-06-12T02:36:03.000000Z",
+            "updated_at": "2024-06-12T02:36:03.000000Z",
+            "rating": 4
+          }
+        }
+      ]
+    }
+  }
+}
