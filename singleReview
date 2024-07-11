@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 14,
+      "product_item_id": 3,
+      "order_id": 8,
+      "qty": 1,
+      "price": "14000000.00",
+      "created_at": "2024-07-07T14:59:14.000000Z",
+      "updated_at": "2024-07-07T14:59:14.000000Z",
+      "user_review": {
+        "id": 14,
+        "user_id": {
+          "id": 3,
+          "email": "ayaya@gmail.com",
+          "name": "henshin",
+          "email_verified_at": null,
+          "phone_number": null,
+          "remember_token": null,
+          "user_image": null,
+          "role": "User",
+          "password": "$2y$12$qRaeKigQZyfY7.Os29swau9Zwec0DeBtNHsul0qiLF2UfipJPWwQ6",
+          "created_at": "2024-07-07T12:17:54.000000Z",
+          "updated_at": "2024-07-07T12:17:54.000000Z"
+        },
+        "ordered_product_id": 14,
+        "rating_value": 0,
+        "comment": "",
+        "created_at": "2024-07-07T07:59:14.000000Z",
+        "updated_at": "2024-07-07T07:59:14.000000Z"
+      }
+    },
+    {
+      "id": 20,
+      "product_item_id": 3,
+      "order_id": 10,
+      "qty": 2,
+      "price": "14000000.00",
+      "created_at": "2024-07-09T11:50:02.000000Z",
+      "updated_at": "2024-07-09T11:50:02.000000Z",
+      "user_review": {
+        "id": 20,
+        "user_id": {
+          "id": 3,
+          "email": "ayaya@gmail.com",
+          "name": "henshin",
+          "email_verified_at": null,
+          "phone_number": null,
+          "remember_token": null,
+          "user_image": null,
+          "role": "User",
+          "password": "$2y$12$qRaeKigQZyfY7.Os29swau9Zwec0DeBtNHsul0qiLF2UfipJPWwQ6",
+          "created_at": "2024-07-07T12:17:54.000000Z",
+          "updated_at": "2024-07-07T12:17:54.000000Z"
+        },
+        "ordered_product_id": 20,
+        "rating_value": 0,
+        "comment": "",
+        "created_at": "2024-07-09T04:50:02.000000Z",
+        "updated_at": "2024-07-09T04:50:02.000000Z"
+      }
+    }
+  ]
+}
